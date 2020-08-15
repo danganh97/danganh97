@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-**danganh97/danganh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [Est Rouge United](https://reviewcongty.com/companies/est-rouge)
+- 🌱 I’m currently working with
+```code
+PHP - PHP Framework - Laravel
+JS - ReactJS - NodeJS
+Docker
+Linux
+Nginx
+Apache
+Amazon Web Services (AWS)
+```
+- 💬 Ask me about [PHP](https://php.net) and [Miduner Framework](https://github.com/danganh97/miduner)
+- 📫 Reach me from [danganh.dev@gmail.com](mailto:danganh.dev@gmail.com)

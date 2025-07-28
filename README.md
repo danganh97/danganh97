@@ -2,13 +2,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Currently working at [Est Rouge United](https://reviewcongty.com/companies/est-rouge)
+- 🔭 Currently working at [Est Rouge Inc.](https://est-rouge.com/en/)
 - 📍 Based in Da Nang city — the central city of Vietnam
 - 🤝 Able to work as freelancer, remote, open source contributor and system consultant
 - 🌱 Currently working with
 ```plaintext
-Javascript - Typescript
-PHP Laravel - Miduner Framework
+Any server-side languages/frameworks
 Server management
 AI Agents
 ```
@@ -17,6 +16,8 @@ AI Agents
 - [PHP](https://php.net)
 - [Node.js](https://nodejs.org/)
 - [Python](https://www.python.org/)
+- [C++](https://cplusplus.com/)
+- [Java](https://www.java.com/en/)
 - [Miduner Framework](https://github.com/danganh97/miduner)
 - [Software/Backend/API Architecture](https://en.wikipedia.org/wiki/Software_architecture)
 - [Amazon Web Services (AWS)](https://aws.amazon.com/)

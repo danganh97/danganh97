@@ -26,6 +26,17 @@ AI Agents
 
 ---
 
+### 🏅 Certifications
+
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9a2eb4b7057249fa9f3ce93d411880e2">
+  <img src="https://images.credly.com/size/600x600/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="145" alt="AWS Certified Cloud Practitioner Badge"/>
+</a>  
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/497ad4b7-0051-45fe-80e5-6bfa1ad8ccce/public_url)
+
+
+---
+
 ### 📂 Featured Projects
 - [Miduner Source Framework](https://github.com/miduner/framework) — my open-source PHP framework
 - [Miduner Usage](https://github.com/danganh97/miduner) — running with usage project
